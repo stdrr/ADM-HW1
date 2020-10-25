@@ -12,7 +12,7 @@ This repository holds all the excercises of the first ADM homework. Algorithmic 
 
     > \# Name_Excercise_1
 
-    >   ...
+       ...
 
     > \# Name_Last_Excercise
     
