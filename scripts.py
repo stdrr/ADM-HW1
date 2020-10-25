@@ -740,13 +740,12 @@ if __name__ == '__main__':
 # Zipped!
 
 if __name__ == '__main__':
-    T = int(input())
-    for i in range(T):
-        a, b = input().split()
-        try:
-            print(int(a)//int(b))
-        except BaseException as e:
-            print(f'Error Code: {e}')
+    N, X = tuple(map(int, input().split()))
+    table = []
+    for i in range(X):
+        table.append(map(float, input().split()))
+    for marks in zip(*table):
+        print(round(sum(marks)/X, 1))
 
 # Athlete Sort
 
