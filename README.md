@@ -18,8 +18,8 @@ This repository holds all the excercises of the first ADM homework.
     
     ```
 
-    The excercises are ordered according to the homework's description.
+    The excercises are ordered according to the homework's [description](http://aris.me/contents/teaching/data-mining-ds-2020/homeworks/homework1.pdf).
 
 2. The directory ***stamps*** holds two files:
-    - ***submissions_problem_1.pdf***: printout of the dashboard for all the excercises belonging to *Problem 1*.
-    - ***submissions_problem_2.pdf***: printout of the dashboard for all the excercises belonging to *Problem 2*.
+    - `submissions_problem_1.pdf`: printout of the dashboard for all the excercises belonging to *Problem 1*.
+    - `submissions_problem_2.pdf`: printout of the dashboard for all the excercises belonging to *Problem 2*.
