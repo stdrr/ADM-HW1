@@ -1,18 +1,14 @@
 # ADM-HW1
 
----
-
 This repository holds all the excercises of the first ADM homework. Algorithmic Methods for Data Mining (ADM) is a course of the Master Degree in Data Science offered by the University of Sapienza, Rome.
 
 ## Content
-
----
 
 1. The file ***scripts.py*** contains the exercises from [HackerRank](https://www.hackerrank.com/dashboard). It is organized as follows:
 
     ```
 
-    # Name_Excercise_1
+    ***# Name_Excercise_1***
 
        ...
 
