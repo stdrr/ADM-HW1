@@ -10,13 +10,17 @@ This repository holds all the excercises of the first ADM homework. Algorithmic 
 
 1. The file ***scripts.py*** contains the exercises from [HackerRank](https://www.hackerrank.com/dashboard). It is organized as follows:
 
-    > \# Name_Excercise_1
+    ```
+
+    # Name_Excercise_1
 
        ...
 
-    > \# Name_Last_Excercise
+    # Name_Last_Excercise
+        
+        ...
     
-    >   ...
+    ```
 
     The excercises are ordered according to the homework's description.
 
